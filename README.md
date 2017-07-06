@@ -1,2 +1,2 @@
 # machine-learning-nanodegree
-Udacity Machine Learning Nano Degree
+Sushil's git repository for Udacity Machine Learning Nano Degree
